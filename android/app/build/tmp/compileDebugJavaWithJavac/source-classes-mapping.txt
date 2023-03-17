@@ -1,0 +1,14 @@
+com/testedgeprop/MainActivity.java
+ com.preTest.MainActivity
+com/testedgeprop/ReactNativeFlipper.java
+ com.preTest.ReactNativeFlipper
+ com.preTest.ReactNativeFlipper$1
+ com.preTest.ReactNativeFlipper$2
+ com.preTest.ReactNativeFlipper$2$1
+com/preTest/BuildConfig.java
+ com.preTest.BuildConfig
+com/testedgeprop/MainApplication.java
+ com.preTest.MainApplication
+ com.preTest.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
